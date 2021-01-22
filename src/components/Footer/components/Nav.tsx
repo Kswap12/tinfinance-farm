@@ -17,7 +17,7 @@ const Nav: React.FC = () => {
         Twitter
       </StyledLink>
       <StyledLink
-        href="https://medium.com/stablexswap"
+        href="https://tinfinance.medium.com/"
         target="_blank"
       >
         About
